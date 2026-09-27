@@ -1,0 +1,27 @@
+---
+title: "Basic Programming with R"
+date: 2024-08-17
+location: "Online (Zoom)"
+event-format: "Online"
+status: "past"
+description: "Our first community training session — an online workshop on basic programming in R, delivered by Bimandra Djaafara."
+categories: [webinar]
+---
+
+Our first community training session was a hands-on online workshop on basic programming in R, held on 17 August 2024. The workshop was delivered by **Bimandra Djaafara** and introduced participants to the fundamentals of R — a cornerstone skill for infectious disease modelling.
+
+## Recording
+
+[Watch recording →](https://youtu.be/LIZI7UmRzig){.btn .btn-primary target="_blank"}
+
+## Materials
+
+[Access workshop materials →](https://drive.google.com/drive/folders/1_cU1vg4DtKByQ-77JKHFn8oSKhnjVD7n?usp=sharing){.btn .btn-outline-primary target="_blank"}
+
+## Details
+
+| | |
+|---|---|
+| **Date** | 17 August 2024 |
+| **Format** | Online (Zoom) |
+| **Trainer** | Bimandra Djaafara |

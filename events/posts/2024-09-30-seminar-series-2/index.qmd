@@ -1,0 +1,26 @@
+---
+title: "INDEMIC Seminar Series #2 — Dhihram Tenrisau"
+date: 2024-09-30
+location: "Online (Zoom)"
+event-format: "Online"
+status: "past"
+description: "The second INDEMIC Seminar Series, featuring Dhihram Tenrisau on a phylodynamic investigation of norovirus outbreaks in the UK from 2003 to 2023."
+categories: [webinar]
+---
+
+The second edition of the **INDEMIC Seminar Series** featured **Dhihram Tenrisau**, a student in the MSc Health Data Science programme at the London School of Hygiene and Tropical Medicine (LSHTM).
+
+Dhihram presented his work on **"Phylodynamic investigation of norovirus outbreaks in the UK 2003–2023"**, exploring how phylodynamic methods can reconstruct the evolutionary and epidemiological history of norovirus — a highly transmissible pathogen responsible for recurrent outbreaks in healthcare settings and the wider community.
+
+## Recording
+
+[Watch recording →](https://youtu.be/Za7_ql1Omqo){.btn .btn-primary target="_blank"}
+
+## Details
+
+| | |
+|---|---|
+| **Date** | 30 September 2024 |
+| **Format** | Online (Zoom) |
+| **Speaker** | Dhihram Tenrisau |
+| **Affiliation** | London School of Hygiene and Tropical Medicine (LSHTM) |

@@ -1,0 +1,26 @@
+---
+title: "INDEMIC Seminar Series #1 — Fadilah Ilahi"
+date: 2024-09-17
+location: "Online (Zoom)"
+event-format: "Online"
+status: "past"
+description: "The first edition of the INDEMIC Seminar Series, featuring Fadilah Ilahi on the construction of matrices for history-based multi-strain models."
+categories: [webinar]
+---
+
+The first edition of the **INDEMIC Seminar Series** featured **Fadilah Ilahi**, a lecturer in the Department of Mathematics at UIN Sunan Gunung Djati Bandung, Indonesia, and a PhD candidate at the University of Manchester, United Kingdom.
+
+Fadilah presented her work on **"The construction of matrices for history-based multi-strain model"** — a mathematical framework relevant to modelling pathogens where prior infection history shapes individual immunity and disease dynamics, such as dengue and influenza.
+
+## Recording
+
+[Watch recording →](https://youtu.be/ZM_9osim27M){.btn .btn-primary target="_blank"}
+
+## Details
+
+| | |
+|---|---|
+| **Date** | 17 September 2024 |
+| **Format** | Online (Zoom) |
+| **Speaker** | Fadilah Ilahi |
+| **Affiliation** | UIN Sunan Gunung Djati Bandung · University of Manchester |

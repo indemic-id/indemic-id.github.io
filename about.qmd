@@ -1,0 +1,33 @@
+---
+title: "About INDEMIC"
+---
+
+## Who are we?
+
+We are a community of people interested in learning about infectious disease modelling and its application in Indonesia's public health context. We hope to learn from each other and collaborate effectively by creating this community.
+
+Learning from the COVID-19 pandemic, we recognise that modelling is a powerful tool with significant impact. However, in Indonesia, its usage remains sporadic. There is a need for a communication forum to facilitate better communication and collaboration.
+
+From the policymakers' perspective, there is a considerable appetite and need for experts in modelling. Our community aims to bridge this gap by making it easier for all stakeholders to communicate with each other. With this community, we also hope it will be easier to disseminate opportunities for scholarships, grants, collaborations, conferences, summer schools, and more among interested individuals from Indonesia.
+
+We also wish to build in-country expertise in infectious disease modelling, and, in the future, share and collaborate with countries in the region to support them in their modelling needs.
+
+<hr class="indemic-divider">
+
+## What we do
+
+Our activities are designed to provide hands-on experience in modelling, foster collaboration, and offer networking opportunities. We offer a variety of:
+
+- **Workshops and lectures** — providing theoretical insights and practical skills in infectious disease modelling
+- **Research presentations and symposiums** — catering to both beginners and advanced modellers
+- **Networking opportunities** — connecting researchers, early-career scientists, and policymakers
+
+Our daily communications are done through a WhatsApp group. To join, send an email to **indemic.community@gmail.com** with a brief introduction — who you are, your background, and your interest in infectious disease modelling — and we will send you the link.
+
+We also update our upcoming and past activities through this website — check our [Events](events.qmd) page to see what's coming up.
+
+<hr class="indemic-divider">
+
+## Get in touch
+
+If you have any questions or would like to collaborate with us, please contact us at **indemic.community@gmail.com** or reach out to one of our [committee members](people.qmd).

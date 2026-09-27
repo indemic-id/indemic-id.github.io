@@ -1,0 +1,37 @@
+---
+title: "Events"
+listing:
+  - id: upcoming-events
+    contents: posts
+    include:
+      status: "upcoming"
+    sort: "date asc"
+    type: grid
+    grid-columns: 2
+    fields: [title, date, description]
+    date-format: "D MMMM YYYY"
+    image-placeholder: ../assets/images/event-placeholder.jpg
+
+  - id: past-events
+    contents: posts
+    include:
+      status: "past"
+    sort: "date desc"
+    type: table
+    fields: [title, date, location]
+    date-format: "D MMMM YYYY"
+---
+
+## Upcoming Events
+
+::: {#upcoming-events}
+:::
+
+*No upcoming events at the moment — check back soon.*
+
+---
+
+## Past Events
+
+::: {#past-events}
+:::

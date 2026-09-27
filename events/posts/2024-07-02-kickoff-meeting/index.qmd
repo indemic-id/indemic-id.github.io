@@ -1,0 +1,33 @@
+---
+title: "INDEMIC Kick-Off Meeting"
+date: 2024-07-02
+location: "Online (Zoom)"
+event-format: "Online"
+status: "past"
+description: "28 modellers from across Indonesia gathered online for our very first community meeting — and voted to name ourselves INDEMIC."
+categories: [webinar]
+---
+
+On 2 July 2024, 28 infectious disease modellers from across Indonesia joined our very first community meeting online. It was the moment our community came to life.
+
+Among the highlights of the meeting was a vote on what to call ourselves. The name **INDEMIC** — Indonesia Infectious Disease Modelling Community — was proposed by **Dr Lhuri Rahmartani**, and the community voted to adopt it. The name captures both who we are and what we do: a community rooted in Indonesia, dedicated to infectious disease modelling.
+
+## Photos
+
+```{=html}
+<div class="photo-strip">
+<img src="images/kick-off-1.jpg" alt="INDEMIC Kick-Off Meeting, 2 July 2024">
+</div>
+```
+
+## Recording
+
+[Watch recording →](https://youtu.be/2szxW7HBSyE){.btn .btn-primary target="_blank"}
+
+## Details
+
+| | |
+|---|---|
+| **Date** | 2 July 2024 |
+| **Format** | Online (Zoom) |
+| **Participants** | 28 modellers |

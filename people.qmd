@@ -1,0 +1,37 @@
+---
+title: "People"
+---
+
+INDEMIC is built by researchers and practitioners from across Indonesia and beyond.
+We are growing — if you work in infectious disease modelling and want to be part of this community, register your interest below.
+
+<hr class="indemic-divider">
+
+## Join the community
+
+Fill in the form to add yourself to the INDEMIC member directory.
+We'll use your details to populate this page and keep you connected with community activities.
+
+<!-- Replace the href below with the actual Google Form link -->
+[Register as an INDEMIC member →](https://forms.google.com/){.btn .btn-primary target="_blank"}
+
+<hr class="indemic-divider">
+
+## Members
+
+<!--
+  This section will be populated once we have member data from the Google Form / Sheet.
+
+  Planned fields per member:
+    - Name
+    - Institution / affiliation
+    - Role / expertise
+    - Co-initiator flag (yes/no)
+    - Photo (optional)
+    - Links (website, GitHub, Google Scholar, etc.)
+
+  We can render members from a YAML or CSV data file using Quarto's listing feature,
+  or build a grid manually. To be decided once the form data starts coming in.
+-->
+
+*Member directory coming soon.*

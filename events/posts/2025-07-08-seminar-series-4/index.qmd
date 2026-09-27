@@ -1,0 +1,26 @@
+---
+title: "INDEMIC Seminar Series #4 — Dr Neilshan Loedy"
+date: 2025-07-08
+location: "Online (Zoom)"
+event-format: "Online"
+status: "past"
+description: "The fourth INDEMIC Seminar Series, featuring Dr Neilshan Loedy on statistical methods for analysing respiratory infectious diseases using social contact data."
+categories: [webinar]
+---
+
+The fourth edition of the **INDEMIC Seminar Series** featured **Dr Neilshan Loedy**, a researcher at the Data Science Institute (DSI), Hasselt University (UHasselt), Belgium. Neilshan recently completed his PhD at UHasselt under the supervision of **Prof Niel Hens** — congratulations, Neilshan!
+
+He presented his work on **"Statistical methods for analyzing respiratory infectious diseases using social contact data"**, exploring how data on human mixing patterns can be combined with statistical and epidemiological models to better understand and predict the spread of respiratory pathogens.
+
+## Recording
+
+[Watch recording →](https://youtu.be/IvT1yf55r7s){.btn .btn-primary target="_blank"}
+
+## Details
+
+| | |
+|---|---|
+| **Date** | 8 July 2025 |
+| **Format** | Online (Zoom) |
+| **Speaker** | Dr Neilshan Loedy |
+| **Affiliation** | Data Science Institute (DSI), Hasselt University |

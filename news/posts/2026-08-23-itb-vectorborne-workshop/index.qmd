@@ -1,0 +1,29 @@
+---
+title: "INDEMIC Members at the Indonesia–UK Vector-Borne Disease Modelling Workshop, Bandung"
+date: 2026-08-23
+description: "INDEMIC members attended and presented at the Indonesia–UK Initiative for Vector-Borne Disease Modelling Workshop, held at Institut Teknologi Bandung."
+categories: [conference]
+---
+
+INDEMIC members were centrally involved in this workshop — **Prama Putra** served as head of the organising committee, while **Henry Surendra**, **Nuning Nuraini**, **Bimandra Djaafara**, and **Aditya Ramadona** attended and presented. **Tyas Widayati** and **Rahmat Sagara** also attended as participants.
+
+The workshop is part of the Indonesia–UK Vector-Borne Disease Modelling Network, a collaboration between ITB and the University of Oxford, supported by The Academy of Medical Sciences through the Networking Grants Programme. It brought together scientists from Indonesia, the United Kingdom, and other countries to advance mathematical and computational approaches for understanding vector-borne diseases such as dengue and chikungunya.
+
+Research discussions spanned four key themes: identifying patterns of virus transmission across different regions of Indonesia; investigating the impact of different viral strains on outbreak dynamics; modelling interactions between environmental factors and mosquito population dynamics; and developing early warning systems for forecasting vector-borne disease outbreaks. The workshop also included capacity building and training sessions for early-career researchers and students.
+
+## Photos
+
+```{=html}
+<div class="photo-strip">
+<img src="images/itb-vbd-1.jpeg" alt="Indonesia–UK Vector-Borne Disease Modelling Workshop, Bandung">
+<img src="images/itb-vbd-2.jpeg" alt="Indonesia–UK Vector-Borne Disease Modelling Workshop, Bandung">
+<img src="images/itb-vbd-3.jpeg" alt="Indonesia–UK Vector-Borne Disease Modelling Workshop, Bandung">
+<img src="images/itb-vbd-4.jpeg" alt="Indonesia–UK Vector-Borne Disease Modelling Workshop, Bandung">
+<img src="images/itb-vbd-5.jpeg" alt="Indonesia–UK Vector-Borne Disease Modelling Workshop, Bandung">
+<img src="images/itb-vbd-6.jpeg" alt="Indonesia–UK Vector-Borne Disease Modelling Workshop, Bandung">
+</div>
+```
+
+## Links
+
+- [Indonesia–UK Vector-Borne Disease Modelling Workshop — FMIPA ITB](https://fmipa.itb.ac.id/vectorborneworkshop2026/){target="_blank"}

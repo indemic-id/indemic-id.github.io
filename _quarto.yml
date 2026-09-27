@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "INDEMIC"
+  description: "Indonesia Infectious Disease Modelling Community"
+  favicon: assets/logos/favicon.png
+  open-graph: true
+
+  navbar:
+    logo: "assets/logos/HORIZONTAL_CLR_NO BG.svg"
+    logo-alt: "INDEMIC"
+    logo-href: /
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "News"
+        href: news/index.qmd
+      - text: "Events"
+        href: events/index.qmd
+      - text: "Resources"
+        href: resources.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+  page-footer:
+    left: "© 2026 INDEMIC — Indonesia Infectious Disease Modelling Community"
+    center:
+      - text: ""
+        href: /
+    right:
+      - icon: github
+        href: https://github.com/indemic-id
+
+  sidebar: false
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+    mainfont: "Figtree"
+    toc: false
+    link-external-newwindow: true

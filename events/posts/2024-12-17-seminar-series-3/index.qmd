@@ -1,0 +1,22 @@
+---
+title: "INDEMIC Seminar Series #3 — Lay Monica Ratna Dewi"
+date: 2024-12-17
+location: "Online (Zoom)"
+event-format: "Online"
+status: "past"
+description: "The third INDEMIC Seminar Series, featuring Lay Monica Ratna Dewi on modelling the health and economic impact of vaccines to prevent antimicrobial resistance."
+categories: [webinar]
+---
+
+The third edition of the **INDEMIC Seminar Series** featured **Lay Monica Ratna Dewi**, currently pursuing her doctoral degree at the University of Oxford, where she also completed her MSc.
+
+Monica presented her MSc research plan on **"Modelling Potential Health and Economic Impact of Vaccines to Prevent Antimicrobial Resistance"**, sharing her proposed approach and inviting feedback from INDEMIC members. Her project sits at the intersection of infectious disease modelling, health economics, and global AMR policy, exploring how mathematical models can quantify the value of vaccines as a tool to reduce the burden of antimicrobial resistance.
+
+## Details
+
+| | |
+|---|---|
+| **Date** | 17 December 2024 |
+| **Format** | Online (Zoom) |
+| **Speaker** | Lay Monica Ratna Dewi |
+| **Affiliation** | University of Oxford |

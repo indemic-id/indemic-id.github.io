@@ -1,0 +1,224 @@
+/*-- scss:defaults --*/
+
+// INDEMIC brand tokens
+$indemic-cyan:  #21B0BA;
+$indemic-navy:  #13213C;
+$indemic-gray:  #F4F5F8;
+
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap');
+
+// Quarto / Bootstrap variable overrides
+$primary:              $indemic-cyan;
+$secondary:            $indemic-navy;
+$navbar-bg:            $indemic-navy;
+$navbar-fg:            #ffffff;
+$navbar-hl:            $indemic-cyan;
+$body-bg:              $indemic-gray;
+$body-color:           $indemic-navy;
+$headings-color:       $indemic-navy;
+$link-color:           $indemic-cyan;
+$link-hover-color:     darken($indemic-cyan, 10%);
+$font-family-base:     "Figtree", system-ui, -apple-system, sans-serif;
+$font-size-base:       1rem;
+$line-height-base:     1.65;
+$border-radius:        6px;
+
+// Footer
+$footer-bg:            $indemic-navy;
+$footer-fg:            rgba(255, 255, 255, 0.7);
+
+/*-- scss:rules --*/
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  text-wrap: balance;
+}
+
+// Navbar logo — white filter so navy parts show on dark navbar background
+.navbar-brand img {
+  max-height: 38px;
+  filter: brightness(0) invert(1);
+}
+
+// Navbar text fallback (shown when logo file is missing)
+.navbar-brand {
+  font-weight: 800;
+  font-size: 1.2rem;
+  color: #fff !important;
+  letter-spacing: -0.01em;
+}
+
+// Buttons use brand cyan
+.btn-primary {
+  background-color: $indemic-cyan;
+  border-color: $indemic-cyan;
+  color: #fff;
+  font-weight: 600;
+
+  &:hover {
+    background-color: darken($indemic-cyan, 8%);
+    border-color: darken($indemic-cyan, 8%);
+  }
+}
+
+// Page hero block (reusable via div with .indemic-hero class)
+.indemic-hero {
+  background: #ffffff;
+  border-bottom: 1px solid $border-color;
+  padding: 5rem 2rem 4rem;
+  margin-bottom: 2.5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+
+  // Logotype SVG — constrain width, let it breathe
+  .hero-logotype {
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+    display: block;
+  }
+
+  p.lead {
+    color: $indemic-navy;
+    font-size: 1.1rem;
+    max-width: 560px;
+    margin-top: 1.5rem;
+    line-height: 1.65;
+    opacity: 0.75;
+  }
+
+  .btn {
+    margin-top: 1.75rem;
+  }
+}
+
+// Content cards
+.indemic-card {
+  background: #fff;
+  border: 1px solid #e2e8ef;
+  border-radius: 10px;
+  padding: 1.5rem;
+}
+
+// Homepage sections
+.home-section {
+  max-width: 900px;
+  margin: 0 auto 3rem;
+  padding-inline: 1rem;
+
+  h2 {
+    font-size: 1.6rem;
+    color: $indemic-navy;
+    margin-bottom: 1.5rem;
+  }
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.home-card {
+  background: #fff;
+  border: 1px solid #e2e8ef;
+  border-radius: 10px;
+  padding: 1.5rem 1.5rem 1.75rem;
+  border-top: 3px solid $indemic-cyan;
+
+  h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: $indemic-navy;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    color: #4a5568;
+    line-height: 1.65;
+    margin: 0;
+  }
+}
+
+.home-contact {
+  max-width: 900px;
+  margin: 0 auto 3rem;
+  padding: 1.25rem 1.5rem;
+  background: $indemic-gray;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  color: $indemic-navy;
+  padding-inline: 2rem;
+}
+
+// Accent divider
+.indemic-divider {
+  border: none;
+  border-top: 3px solid $indemic-cyan;
+  width: 48px;
+  margin: 1rem 0 1.5rem;
+}
+
+// Footer link color fix
+.nav-footer a {
+  color: rgba(255, 255, 255, 0.6);
+  &:hover { color: $indemic-cyan; }
+}
+
+// Horizontal scrollable photo strip (for event and news posts)
+.photo-strip {
+  display: flex;
+  flex-direction: row;
+  gap: 0.75rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 0.75rem;   // room for scrollbar on desktop
+  margin-block: 1.5rem;
+
+  // Hide scrollbar on WebKit while keeping it scrollable
+  &::-webkit-scrollbar {
+    height: 4px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: rgba($indemic-navy, 0.2);
+    border-radius: 2px;
+  }
+
+  // In case Pandoc wraps <img> in <p>, make the <p> invisible to flex layout
+  p {
+    display: contents;
+    margin: 0;
+    padding: 0;
+  }
+
+  // Images are direct children (raw HTML strip)
+  img {
+    height: 260px;
+    width: auto;
+    max-width: none;       // override Quarto's max-width: 100%
+    border-radius: 8px;
+    object-fit: cover;
+    display: block;
+    flex-shrink: 0;
+    scroll-snap-align: start;
+  }
+
+  // On mobile, slightly shorter
+  @media (max-width: 576px) {
+    img { height: 200px; }
+  }
+}
