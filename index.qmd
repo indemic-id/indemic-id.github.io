@@ -13,7 +13,7 @@ listing:
 ---
 
 ::: {.indemic-hero}
-![](assets/logos/LOGOTYPE_CLR_NO BG.svg){.hero-logotype alt="INDEMIC — Indonesia Infectious Disease Modelling Community"}
+![](assets/logos/HORIZONTAL_CLR_NO BG.svg){.hero-logotype alt="INDEMIC — Indonesia Infectious Disease Modelling Community"}
 
 ::: {.lead}
 A vibrant, collaborative network dedicated to advancing infectious disease modelling in Indonesia — for researchers, early-career scientists, and everyone in between.
