@@ -5,7 +5,7 @@ project:
 website:
   title: "INDEMIC"
   description: "Indonesia Infectious Disease Modelling Community"
-  favicon: assets/logos/favicon.png
+  favicon: assets/logos/LOGOGRAM_CLR_NO BG.svg
   open-graph: true
 
   navbar:
